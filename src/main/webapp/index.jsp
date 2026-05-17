@@ -534,7 +534,7 @@
 <main>
     <section class="hero">
         <div class="container">
-            <h1>Winter '24 <br> Iconic Collection</h1>
+            <h1>Summer '24 <br> Iconic Collection</h1>
             <p>Experience the new wave of minimalist luxury – where elegance meets boldness.</p>
             <div class="btn-group">
                 <button class="btn btn-primary" id="shopNowBtn">Shop Now →</button>
